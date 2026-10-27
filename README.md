@@ -1,4 +1,4 @@
-# Hi, I'm Harrison Cross 👋
+# Hi, I'm Harrison Cross 
 
 I build and run real infrastructure — networking, self-hosted services, and AI systems. I'm most interested in the point where those overlap: systems that run unattended, stay secure, and hold up when something breaks.
 
