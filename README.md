@@ -1,25 +1,62 @@
-# Hi, I'm Harrison Cross 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img alt="Harrison Cross: a glowing spirit tree with network roots, drifting wisps, and a swirling portal" src="assets/banner-dark.svg" width="100%">
+  </picture>
+</p>
 
-I build and run real infrastructure — networking, self-hosted services, and AI systems. I'm most interested in the point where those overlap: systems that run unattended, stay secure, and hold up when something breaks.
+Hello world! I love tinkering with homelab projects, studying networking, and learning to build with AI. I want to understand everything I build and keep it secure, and that's the idea behind every quest below.
 
-Most of what I learn comes from running things for real rather than from tutorials, so my projects tend to include the parts that went wrong and what I did about them.
+## ⚔️ Quest log
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>AI study plan</b><br>
+      <img src="assets/badge-main-quest.svg" alt="Main quest"><br><br>
+      Chapter 1 of 8: how models and agent loops work.<br>
+      ▰▱▱▱▱▱▱▱ 1/8
+    </td>
+    <td width="33%" valign="top">
+      <b>Homelab upgrades</b><br>
+      <img src="assets/badge-side-quest.svg" alt="Side quest"><br><br>
+      Automated backups and one dashboard for every service.
+    </td>
+    <td width="33%" valign="top">
+      <b>Custom TV launcher</b><br>
+      <img src="assets/badge-side-quest.svg" alt="Side quest"><br><br>
+      A fast, ad-free home screen for my TV, designed by me and built with Claude Code.
+    </td>
+  </tr>
+</table>
 
-## Projects
+## 📜 Upcoming quests
 
-| Project | What it is | Tech | Why it matters |
-|---|---|---|---|
-| **[pi4-homelab](https://github.com/Tempore-pro/pi4-homelab)** | A Raspberry Pi 4 running as an offsite, unattended home server at a family member's house — network-wide ad-blocking DNS, self-monitoring, and automatic updates, all managed remotely with no physical access. | Ubuntu Server · Docker Compose · AdGuard Home · Portainer · Uptime Kuma · Watchtower · Cockpit · Tailscale · ufw | Zero forwarded ports and zero public exposure — the only way in is a private mesh VPN. Includes two full write-ups of real problems: a firewall conflict that made a healthy service look offline, and a network routing rule I built, debugged, and then deliberately rolled back after it caused an outage. |
+- **CompTIA Network+** · the vendor-neutral foundation before CCNA
+- **Local models** · running bigger models at home, past the GPU's memory
+- **NAS build** · storage for the homelab
 
----
+## 🔒 Locked quests
 
-## Currently Working On
+- **CCNA v2.0** · unlocks after Network+
+- **roscoe-world** · unlocks after Local models
+- **Homelab ops agent** · unlocks after Chapter 4 of the study plan
+- **Home AI server** · needs two keys: Local models and NAS build
 
-- Expanding the homelab: automated backups, self-hosted notifications, and a unified service dashboard
-- A larger project using locally-run AI models as autonomous agents (in progress, not yet public)
-- Working toward networking certifications
+## 🏆 Completed quests
 
-## Connect
+<table>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/Tempore-pro/pi4-homelab">pi4-homelab</a></b>
+      <img src="assets/badge-complete.svg" alt="Complete"><br>
+      A Raspberry Pi at a family member's house, managed from a distance with nothing exposed to the internet.<br>
+      <sub>Ubuntu Server · Docker Compose · AdGuard Home · Uptime Kuma · Tailscale</sub>
+    </td>
+  </tr>
+</table>
 
-- **LinkedIn:** [harrison-cross](https://www.linkedin.com/in/harrison-cross-395106251)
+## 🌀 Portals
+
+<a href="https://www.linkedin.com/in/harrison-cross-395106251"><img src="assets/portal-linkedin.svg" alt="LinkedIn"></a>
